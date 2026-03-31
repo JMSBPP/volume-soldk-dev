@@ -16,3 +16,4 @@ docs/book/
 # Coverage
 lcov.info
 coverage/
+tmp/
